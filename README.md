@@ -7,6 +7,14 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 ## 📚 Índice
 
 - [01 · Variables y Cadenas](#01--variables-y-cadenas)
+    - [Introducción a JavaScript](./variables-cadenas/introduccion-js.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+    - [Introducción a Cadenas](./variables-cadenas/introduccion-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+    - [Entender la Claridad del Código](./variables-cadenas/entender-claridad-codigo.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+    - [Bot de Saludos](./variables-cadenas/bot-saludos.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+    - [Bot de Trivia](./variables-cadenas/bot-trivia.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+    - [Creador de Oraciones](./variables-cadenas/creador-oraciones.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+    - [Tipos de Datos](./variables-cadenas/trabajando-tipos-datos.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+    - [Revisión: Variables y Tipos de Datos en JavaScript](./variables-cadenas/revision-variables-tipos-datos.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
 - [02 · Booleanos y Números](#02--booleanos-y-números)
 - [03 · Funciones](#03--funciones)
 - [04 · Arreglos](#04--arreglos)
