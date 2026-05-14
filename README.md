@@ -85,7 +85,7 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-1--convertidor-de-markdown-a-html">Proyecto 1 · Convertidor de Markdown a HTML</a></div>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-1--convertidor-de-markdown-a-html">Proyecto 1 · Convertidor de Markdown a HTML</a></div><br>
 
 <details>
 <summary>13 · Validación de Formularios</summary>
@@ -102,14 +102,14 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-2--caja-de-ritmos">Proyecto 2 · Caja de Ritmos</a></div>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-2--caja-de-ritmos">Proyecto 2 · Caja de Ritmos</a></div><br>
 
 <details>
 <summary>16 · Mapas y Conjuntos</summary>
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-3--sistema-de-votación">Proyecto 3 · Sistema de Votación</a></div>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-3--sistema-de-votación">Proyecto 3 · Sistema de Votación</a></div><br>
 
 <details>
 <summary>17 · Operaciones CRUD y LocalStorage</summary>
@@ -121,7 +121,7 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-4--gestión-de-cuentas-bancarias">Proyecto 4 · Gestión de Cuentas Bancarias</a></div>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-4--gestión-de-cuentas-bancarias">Proyecto 4 · Gestión de Cuentas Bancarias</a></div><br>
 
 <details>
 <summary>19 · Recursión</summary>
@@ -160,7 +160,7 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 <div>🏗️ <a href="#%EF%B8%8F-proyecto-5--app-del-tiempo">Proyecto 5 · App del Tiempo</a></div>
 
-<br>
+<br><br>
 
 <div> === ✅ <a href="#-revisión-final-de-javascript">Revisión Final de JavaScript</a> ===</div>
 
