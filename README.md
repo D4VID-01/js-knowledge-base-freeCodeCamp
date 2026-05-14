@@ -85,7 +85,7 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-1--convertidor-de-markdown-a-html">Proyecto 1 · Convertidor de Markdown a HTML</a></div><br>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-1--convertidor-de-markdown-a-html">Proyecto 1 · Convertidor de Markdown a HTML</a> &emsp;<img src="./badges/badge-proyecto.svg" /></div> <br>
 
 <details>
 <summary>13 · Validación de Formularios</summary>
@@ -102,14 +102,14 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-2--caja-de-ritmos">Proyecto 2 · Caja de Ritmos</a></div><br>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-2--caja-de-ritmos">Proyecto 2 · Caja de Ritmos</a>&emsp;<img src="./badges/badge-proyecto.svg" /></div><br>
 
 <details>
 <summary>16 · Mapas y Conjuntos</summary>
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-3--sistema-de-votación">Proyecto 3 · Sistema de Votación</a></div><br>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-3--sistema-de-votación">Proyecto 3 · Sistema de Votación</a>&emsp;<img src="./badges/badge-proyecto.svg" /></div><br>
 
 <details>
 <summary>17 · Operaciones CRUD y LocalStorage</summary>
@@ -121,7 +121,7 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-4--gestión-de-cuentas-bancarias">Proyecto 4 · Gestión de Cuentas Bancarias</a></div><br>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-4--gestión-de-cuentas-bancarias">Proyecto 4 · Gestión de Cuentas Bancarias</a>&emsp;<img src="./badges/badge-proyecto.svg" /></div><br>
 
 <details>
 <summary>19 · Recursión</summary>
@@ -158,7 +158,7 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 
 </details>
 
-<div>🏗️ <a href="#%EF%B8%8F-proyecto-5--app-del-tiempo">Proyecto 5 · App del Tiempo</a></div>
+<div>🏗️ <a href="#%EF%B8%8F-proyecto-5--app-del-tiempo">Proyecto 5 · App del Tiempo</a>&emsp;<img src="./badges/badge-proyecto.svg" /></div>
 
 <br><br>
 
