@@ -9,29 +9,42 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 <details>
 <summary>01 · Variables y Cadenas</summary>
 
-- [Introducción a JavaScript](./variables-cadenas/introduccion-js.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Introducción a Cadenas](./variables-cadenas/introduccion-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Entender la Claridad del Código](./variables-cadenas/entender-claridad-codigo.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Bot de Saludos](./variables-cadenas/bot-saludos.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Bot de Trivia](./variables-cadenas/bot-trivia.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Creador de Oraciones](./variables-cadenas/creador-oraciones.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Tipos de Datos](./variables-cadenas/trabajando-tipos-datos.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Revisión: Variables y Tipos de Datos en JavaScript](./variables-cadenas/revision-variables-tipos-datos.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
-- [Trabajando con Cadenas](./variables-cadenas/trabajando-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Chatbot de Profesor](./variables-cadenas/chatbot-profesor.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Métodos de Caracteres en Cadenas](./variables-cadenas/metodos-caracteres-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Métodos de Búsqueda y Corte en Cadenas](./variables-cadenas/metodos-busqueda-corte-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Inspector de Cadenas](./variables-cadenas/inspector-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Métodos de Formateo de Cadenas](./variables-cadenas/metodos-formateo-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Formateador de Cadenas](./variables-cadenas/formateador-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Métodos de Modificación de Cadenas](./variables-cadenas/metodos-modificacion-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
-- [Transformador de Cadenas](./variables-cadenas/transformador-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Revisión: Cadenas de JavaScript](./variables-cadenas/revision-cadenas.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
+- [Introducción a JavaScript](./1-variables-cadenas/introduccion-js.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Introducción a Cadenas](./1-variables-cadenas/introduccion-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Entender la Claridad del Código](./1-variables-cadenas/entender-claridad-codigo.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Bot de Saludos](./1-variables-cadenas/bot-saludos.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Bot de Trivia](./1-variables-cadenas/bot-trivia.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Creador de Oraciones](./1-variables-cadenas/creador-oraciones.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Tipos de Datos](./1-variables-cadenas/trabajando-tipos-datos.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Revisión: Variables y Tipos de Datos en JavaScript](./1-variables-cadenas/revision-variables-tipos-datos.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
+- [Trabajando con Cadenas](./1-variables-cadenas/trabajando-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Chatbot de Profesor](./1-variables-cadenas/chatbot-profesor.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Métodos de Caracteres en Cadenas](./1-variables-cadenas/metodos-caracteres-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Métodos de Búsqueda y Corte en Cadenas](./1-variables-cadenas/metodos-busqueda-corte-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Inspector de Cadenas](./1-variables-cadenas/inspector-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Métodos de Formateo de Cadenas](./1-variables-cadenas/metodos-formateo-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Formateador de Cadenas](./1-variables-cadenas/formateador-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Métodos de Modificación de Cadenas](./1-variables-cadenas/metodos-modificacion-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Transformador de Cadenas](./1-variables-cadenas/transformador-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Revisión: Cadenas de JavaScript](./1-variables-cadenas/revision-cadenas.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
 
 </details>
 
 <details>
 <summary>02 · Booleanos y Números</summary>
+
+- [Números y Operadores Aritméticos](./2-booleanos-numeros/numeros-operadores-aritmeticos.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Depurar Errores de Conversión de Tipos](./2-booleanos-numeros/depuarar-errores-conversion.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Trabajando con el Comportamiento del Operador](./2-booleanos-numeros/comportamiento-operador.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Depurar Errores de Operadores de Incremento y Decremento](./2-booleanos-numeros/depurar-errores-incremento-decremento.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Operadores de Comparación y Booleanos](./2-booleanos-numeros/operadores-comparacion-booleanos.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Aplicación Comprobadora de Lógica](./2-booleanos-numeros/comprobadora-logica.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Operadores Unarios y Bit a Bit](./2-booleanos-numeros/operadores-unarios-bitabit.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Lógica Condicional y Métodos Matemáticos](./2-booleanos-numeros/logica-condicional-metodos-matematicos.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Mathbot](./2-booleanos-numeros/mathbot.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Adivinador de Fortuna](./2-booleanos-numeros/adivinador-fortuna.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
+- [Números y Métodos Comunes de Números](./2-booleanos-numeros/metodos-comunes-numeros.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Revisión: Matemáticas en JavaScript](./2-booleanos-numeros/revision-matematicas.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
 
 </details>
 
