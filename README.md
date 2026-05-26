@@ -26,7 +26,7 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 - [Formateador de Cadenas](./1-variables-cadenas/formateador-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
 - [Métodos de Modificación de Cadenas](./1-variables-cadenas/metodos-modificacion-cadenas.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
 - [Transformador de Cadenas](./1-variables-cadenas/transformador-cadenas.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
-- [Revisión: Cadenas de JavaScript](./1-variables-cadenas/revision-cadenas.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
+- [Revisión: Comparaciones y Condiciones](./1-variables-cadenas/revision-cadenas.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
 
 </details>
 
@@ -45,6 +45,8 @@ Repositorio de apuntes, ejemplos y ejercicios del curso de certificación JavaSc
 - [Adivinador de Fortuna](./2-booleanos-numeros/adivinador-fortuna.js) &emsp;[![Práctica](./badges/badge-practica.svg)](#)
 - [Números y Métodos Comunes de Números](./2-booleanos-numeros/metodos-comunes-numeros.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
 - [Revisión: Matemáticas en JavaScript](./2-booleanos-numeros/revision-matematicas.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
+- [Comprensión de Comparaciones y Condicionales](./2-booleanos-numeros/comprension-comparaciones-condicionales.md) &emsp;[![Teoría](./badges/badge-teoria.svg)](#)
+- [Revisión: Comparaciones y Condicionales](./2-booleanos-numeros/revision-comparaciones-condicionales.md) &emsp;[![Revisión](./badges/badge-revision.svg)](#)
 
 </details>
 
